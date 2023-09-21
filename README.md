@@ -9,5 +9,5 @@ that Openvds+ can write compressed cube using the properitary wavelet compressio
 
 To install from this repo:
 ```bash
-pip install openvds --no-index --find-links https://github.com/olaals/openvds-wheels/raw/main/openvds
+pip install openvds --no-index --find-links https://github.com/olaals/openvds-wheels/raw/main
 ```
