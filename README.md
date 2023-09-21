@@ -13,6 +13,16 @@ pip install openvds --no-index --find-links https://olaals.github.io/openvds-whe
 ```
 
 
+To add to the pip search during install in requirements.txt
+
+**Requirements.txt**
+```bash
+--find-links https://olaals.github.io/openvds-wheels/
+openvds
+numpy
+numba
+matplotlib
+```
 
 
 Link:
